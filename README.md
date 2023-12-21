@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @backenddevelopereishan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @ishan berry
+- 👀 I’m interested in ... backend development with Java Spring boot 
+- 🌱 I’m currently learning ...spring boot 
+- 💞️ I’m looking to collaborate on ...on freelancer project 
+- 📫 How to reach me ...ishanberry2002@gmail.com
 
 <!---
 backenddevelopereishan/backenddevelopereishan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
